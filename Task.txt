@@ -1,0 +1,12 @@
+MIPS Final Project Task
+
+Write a program to evaluate the value of any expression using the postfix expression evaluation method.
+
+Specific requirements:
+
+1. Input an infix expression, for example: 9 + 2 + 8 * 6
+2. Output the expression in postfix form, for example: 9 2 + 8 6 * +
+3. Calculate the value of the entered expression
+
+Constants are integers within the range of 0 → 99.
+Operators include addition, subtraction, multiplication, division, and modulus."
